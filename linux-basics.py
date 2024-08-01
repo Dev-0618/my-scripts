@@ -1,5 +1,16 @@
 from tabulate import tabulate
-
+import time
+from rich.console import Console
+console = Console()
+console.clear()
+print(r"""Developed By:
+  __   ___    ______       _  _          ______        ___  
+ /_ | |__ \  |____  |     | || |        |____  |      / _ \ 
+  | |    ) |     / /      | || |_           / /      | (_) |
+  | |   / /     / /       |__   _|         / /        > _ < 
+  | |  / /_    / /     _     | |     _    / /     _  | (_) |
+  |_| |____|  /_/     (_)    |_|    (_)  /_/     (_)  \___/""")
+time.sleep(2.5)
 def print_command_info():
     commands = [
         ("ssh", "Secure Shell; used to securely connect to a remote server or machine."),
