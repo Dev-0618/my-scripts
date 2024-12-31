@@ -1,9 +1,3 @@
-Hey welcome to My scripts repo well nothing big I just upload my py scripts and more here basically tools
-hope its usefull soon ill update this repo to make like more useable😃😃
-
-by 127.4.7.8
-
-
 Tableau Visualization Setup Guide
 1. Workspace Setup
 
@@ -33,7 +27,7 @@ Drag Year to Columns, Global_Sales to Rows -> Add Genre to Marks -> Apply color.
 Dashboard Creation:
 Go to Dashboard tab -> Add multiple sheets -> Set size to "Automatic" -> Arrange visualizations (e.g., line chart for yearly sales, bar chart for top genres).
 
-
+---
 
 
 Tableau Guide for Excel File Connection and Joins
@@ -78,7 +72,7 @@ Drag EmployeeSalary to Rows.
 Sort the chart in descending order.
 Drag EmployeeSalary to Marks -> Add Color and Label.
 
-
+---
 
 Steps for Dashboard Design and Storytelling in Tableau
 1. Creating a Dashboard in Tableau
@@ -108,7 +102,7 @@ Trend Analysis: Use a line graph to show changes in Ontario’s expenditure from
 Conclusion: Show interactive insights, allowing users to explore provincial trends themselves.
 This creates an engaging and insightful narrative tailored to your data!
 
-
+---
 
 [09:01, 31/12/2024] deva://127.4.7.8/: power bi
 
@@ -150,7 +144,7 @@ Power Pivot: Data modeling and relationship creation using DAX.
 Power Q&A: Natural language querying for in-depth data insights.
 
 
-
+---
 
 Creating Reports & Visualizations in Power BI
 
